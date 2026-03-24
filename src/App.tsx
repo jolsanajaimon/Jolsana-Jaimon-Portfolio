@@ -12,7 +12,7 @@ const App: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const { scrollYProgress } = useScroll();
   const scaleX = useSpring(scrollYProgress, {
-    stately: 100,
+    stiffness: 100,
     damping: 30,
     restDelta: 0.001
   });
@@ -282,9 +282,9 @@ const App: React.FC = () => {
                       ))}
                     </div>
                   )}
-                  {edu.activities && (
+                  {(edu as any).activities && (
                     <ul className="space-y-2">
-                      {edu.activities.map((activity, aIdx) => (
+                      {(edu as any).activities.map((activity: string, aIdx: number) => (
                         <li key={aIdx} className="text-sm text-white/50 flex items-start gap-2">
                           <span className="text-blue-500 mt-1">•</span>
                           {activity}
@@ -292,10 +292,10 @@ const App: React.FC = () => {
                       ))}
                     </ul>
                   )}
-                  {edu.project && (
+                  {(edu as any).project && (
                     <div className="mt-6 p-4 rounded-xl bg-blue-500/5 border border-blue-500/10">
                       <div className="text-xs font-bold text-blue-500 uppercase mb-2">Final Year Project</div>
-                      <p className="text-sm text-white/70">{edu.project}</p>
+                      <p className="text-sm text-white/70">{(edu as any).project}</p>
                     </div>
                   )}
                 </div>
