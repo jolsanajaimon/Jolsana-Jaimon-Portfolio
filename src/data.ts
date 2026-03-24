@@ -8,7 +8,6 @@ export const resumeData = {
     "url": "https://www.linkedin.com/in/jolsana-jaimon-5125531b1",
     "summary": "Hi, I’m Jolsana Jaimon, a Software Engineer and Angular Frontend Developer with 1+ year of professional experience building production-grade web applications in Angular, TypeScript, Java, and Spring Boot. At Geojit Technologies, I develop financial web applications used by real investors — building Angular frontend modules, dynamic forms, role-based UI, and REST API integrations for the Smartfolios investment platform.",
     "location": {
-      "address": "PARAPPEDATHIL(H), VARIKKAD, PERUMBAVOOR, VALAYANCHIRANGARA P.O",
       "city": "Ernakulam",
       "region": "Kerala",
       "countryCode": "IN"
