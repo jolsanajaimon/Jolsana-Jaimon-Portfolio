@@ -107,7 +107,7 @@ export const resumeData = {
       "studyType": "CBSE AISSCE XII",
       "startDate": "Jun 2019",
       "endDate": "Mar 2020",
-      "score": "79%",
+      "score": "Score - 79%",
       "activities": ["Sports House Captain"],
       "subjects": ["Computer Science", "Mathematics", "Physics", "Chemistry", "English"]
     },
@@ -117,7 +117,7 @@ export const resumeData = {
       "studyType": "CBSE AISSE X",
       "startDate": "Jun 2017",
       "endDate": "Mar 2018",
-      "score": "76%"
+      "score": "Score - 76%"
     },
     {
       "institution": "International Indian School, Riyadh",
