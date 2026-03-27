@@ -78,6 +78,3 @@ This project is configured for seamless deployment on **Vercel**.
 **Jolsana Jaimon**
 - GitHub: [@jolsanajaimon](https://github.com/jolsanajaimon)
 - LinkedIn: [Jolsana Jaimon](https://www.linkedin.com/in/jolsana-jaimon-5125531b1)
-
----
-*Built with ❤️ and React.*
