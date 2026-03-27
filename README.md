@@ -1,6 +1,6 @@
-# Jolsana Jaimon | Portfolio
+# Jolsana Jaimon - Portfolio
 
-A high-converting, futuristic portfolio website for **Jolsana Jaimon**, Software Engineer and Angular/Full Stack Developer. This project showcases technical skills, projects, and professional experience with a modern, high-performance interface.
+Personal portfolio website showcasing my experience, projects, and skills as a Software Engineer and Angular Frontend Developer.
 
 ## 🚀 Live Demo
 
