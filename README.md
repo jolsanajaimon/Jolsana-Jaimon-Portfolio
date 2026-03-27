@@ -6,6 +6,8 @@ Personal portfolio website showcasing my experience, projects, and skills as a S
 
 Check out the live site: [https://jolsana-jaimon-portfolio.vercel.app](https://jolsana-jaimon-portfolio.vercel.app)
 
+---
+
 ## ✨ Features
 
 - **Futuristic UI/UX:** Modern design with smooth animations using Framer Motion.
