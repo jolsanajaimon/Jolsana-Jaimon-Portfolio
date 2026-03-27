@@ -25,6 +25,8 @@ Check out the live site: [https://jolsana-jaimon-portfolio.vercel.app](https://j
 - **Build Tool:** Vite
 - **Deployment:** Vercel
 
+---
+
 ## 📦 Getting Started
 
 ### Prerequisites
@@ -58,6 +60,7 @@ Check out the live site: [https://jolsana-jaimon-portfolio.vercel.app](https://j
    ```bash
    npm run build
    ```
+---
 
 ## 🚢 Deployment
 
@@ -68,6 +71,7 @@ This project is configured for seamless deployment on **Vercel**.
   ```bash
   vercel --prod
   ```
+---
 
 ## 👤 Author
 
