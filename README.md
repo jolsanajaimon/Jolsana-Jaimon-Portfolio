@@ -39,7 +39,7 @@ Check out the live site: [https://jolsana-jaimon-portfolio.vercel.app](https://j
 
 2. **Navigate to the project directory:**
    ```bash
-   cd jolsana-jaimon-portfolio
+   cd Jolsana-Jaimon-Portfolio
    ```
 
 3. **Install dependencies:**
