@@ -6,7 +6,7 @@ export const resumeData = {
     "email": "jolsana2002@gmail.com",
     "phone": "9061915874",
     "url": "https://www.linkedin.com/in/jolsana-jaimon-5125531b1",
-    "summary": "Hi, I’m Jolsana Jaimon, a Software Engineer with 1+ year of experience building scalable, production-grade fintech applications using Angular, Java, and Spring Boot. Proven expertise in developing high-performance user interfaces, RESTful APIs, and secure backend systems, delivering measurable improvements in performance, stability, and user experience. Experienced in Microservices architecture, CI/  CD pipelines, and Agile development with a strong focus on clean, maintainable code and system scalability.",
+    "summary": "Hi, I’m Jolsana Jaimon, a Software Engineer with 2 years of experience building scalable, production-grade fintech applications using Angular, Java, and Spring Boot. Proven expertise in developing high-performance user interfaces, RESTful APIs, and secure backend systems, delivering measurable improvements in performance, stability, and user experience. Experienced in Microservices architecture, CI/  CD pipelines, and Agile development with a strong focus on clean, maintainable code and system scalability.",
     "location": {
       "city": "Ernakulam",
       "region": "Kerala",
